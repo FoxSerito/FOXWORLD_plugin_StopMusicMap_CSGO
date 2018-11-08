@@ -1,1 +1,1 @@
-# FOXWORLD_plugin_StopMusicMap_CSGO
+# FOXWORLD :: Остановка звуков и музыки размещенных на карте
