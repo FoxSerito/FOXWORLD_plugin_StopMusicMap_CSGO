@@ -1,1 +1,1 @@
-## FOXWORLD :: Плагин SourceMod (CSGO)
+## FOXWORLD :: Плагин SourceMod (CSGO). Остановка звуков и музыки размещенных на карте.
